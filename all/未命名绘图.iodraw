@@ -195,11 +195,11 @@
           <mxGeometry x="285" y="276" width="76" height="20.5" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-69" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;维修手册&lt;/span&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
-          <mxGeometry x="638" y="286.5" width="76" height="37" as="geometry" />
+          <mxGeometry x="643" y="306" width="76" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-70" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="CUOGsrrlKZTYXRW6oetZ-29" target="CUOGsrrlKZTYXRW6oetZ-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="773" y="252" as="sourcePoint" />
+            <mxPoint x="635" y="289" as="sourcePoint" />
             <mxPoint x="823" y="202" as="targetPoint" />
           </mxGeometry>
         </mxCell>
