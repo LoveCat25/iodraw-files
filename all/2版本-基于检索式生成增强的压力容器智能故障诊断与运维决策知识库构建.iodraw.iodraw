@@ -8,7 +8,7 @@
           <mxGeometry x="-409" y="2357" width="1286.5" height="570.13" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-118" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
-          <mxGeometry x="179" y="38" width="603" height="451" as="geometry" />
+          <mxGeometry x="172" y="30.5" width="603" height="451" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-115" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;dashed=1;dashPattern=1 2;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="238" y="79" width="501" height="134" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="376" y="259" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-35" value="②压力容器故障及维修情况、行业安全规范知识图谱化" style="whiteSpace=wrap;strokeWidth=1;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
-          <mxGeometry x="519" y="151" width="225" height="43" as="geometry" />
+          <mxGeometry x="506" y="148" width="225" height="43" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-44" value="网络数据" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="190" y="240" width="120" height="80" as="geometry" />
