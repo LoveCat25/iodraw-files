@@ -144,7 +144,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-29" value="" style="whiteSpace=wrap;strokeWidth=1;verticalAlign=top;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-399" y="2321" width="1137" height="570.13" as="geometry" />
+          <mxGeometry x="-398" y="2321" width="1137" height="570.13" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-33" value="压力容器工业LLM和信息检索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="376" y="259" width="200" height="49" as="geometry" />
@@ -200,11 +200,11 @@
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-117" value="基于检索式生成增强的压力容器智能故障诊断与运维决策知识库构建" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;strokeColor=none;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="264.5" y="46" width="460" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="CUOGsrrlKZTYXRW6oetZ-121" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.loading_arm;pointerEvents=1;sketch=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
+          <mxGeometry x="487" y="414" width="120" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-118" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-247" y="2969" width="603" height="451" as="geometry" />
-        </mxCell>
-        <mxCell id="CUOGsrrlKZTYXRW6oetZ-121" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.loading_arm;pointerEvents=1;sketch=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="113" y="2575" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
