@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1817" dy="103" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2491" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -144,7 +144,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-29" value="基于检索式生成增强的压力容器智能故障诊断与运维决策知识库构建" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;strokeColor=#829fc8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-962" y="2363" width="1082" height="512" as="geometry" />
+          <mxGeometry x="-832" y="2353" width="1082" height="512" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-33" value="压力容器工业LLM和信息检索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="376" y="259" width="200" height="49" as="geometry" />
@@ -204,7 +204,7 @@
           <mxGeometry x="531" y="317" width="32" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-115" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=#E2E8F2;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
-          <mxGeometry x="262" y="166" width="120" height="60" as="geometry" />
+          <mxGeometry x="52" y="29" width="477" height="161" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
