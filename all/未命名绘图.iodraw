@@ -153,7 +153,7 @@
           <mxGeometry x="157" y="420" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-32" value="①多元运行数据采集与专业知识集成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
-          <mxGeometry x="46" y="90" width="252" height="66" as="geometry" />
+          <mxGeometry x="17" y="113" width="249" height="47" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-33" value="压力容器工业LLM和信息检索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="418" y="310" width="200" height="49" as="geometry" />
@@ -162,7 +162,7 @@
           <mxGeometry x="313" y="434" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-35" value="②压力容器故障知识图谱化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
-          <mxGeometry x="677" y="178" width="220" height="49" as="geometry" />
+          <mxGeometry x="328" y="113" width="207" height="46" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-36" value="用药知识图谱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="551" y="434" width="156" height="49" as="geometry" />
