@@ -155,7 +155,7 @@
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-32" value="①诊疗对话数据搜集和医学知识整理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="162" y="169" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="CUOGsrrlKZTYXRW6oetZ-33" value="压力容器LLM和信息检索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
+        <mxCell id="CUOGsrrlKZTYXRW6oetZ-33" value="压力容器工业LLM和信息检索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="418" y="310" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-34" value="相关诊疗对话数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
@@ -197,6 +197,9 @@
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-45" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="27" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CUOGsrrlKZTYXRW6oetZ-46" value="" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
+          <mxGeometry x="701" y="281" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
