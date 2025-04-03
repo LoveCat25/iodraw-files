@@ -199,7 +199,10 @@
           <mxGeometry x="27" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-46" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;行业标准&lt;/span&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
-          <mxGeometry x="693" y="289" width="136" height="82" as="geometry" />
+          <mxGeometry x="693" y="289" width="136" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="CUOGsrrlKZTYXRW6oetZ-47" value="" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="445" y="2405" width="100" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
