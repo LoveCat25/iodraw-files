@@ -146,6 +146,9 @@
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-29" value="" style="whiteSpace=wrap;strokeWidth=1;verticalAlign=top;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-380" y="2356" width="1286.5" height="570.13" as="geometry" />
         </mxCell>
+        <mxCell id="CUOGsrrlKZTYXRW6oetZ-118" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
+          <mxGeometry x="179" y="38" width="603" height="451" as="geometry" />
+        </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-115" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;dashed=1;dashPattern=1 2;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="260" y="88" width="501" height="134" as="geometry" />
         </mxCell>
@@ -202,9 +205,6 @@
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-60" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;故障及维修知识图谱&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="494.00333333333344" y="396.9977099609373" width="136" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="CUOGsrrlKZTYXRW6oetZ-118" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
-          <mxGeometry x="186" y="339" width="603" height="451" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
