@@ -29,10 +29,10 @@
           <mxGeometry x="643" y="237.5" width="76" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-51" value="①压力容器运行数据采集与行业规范整理" style="whiteSpace=wrap;strokeWidth=1;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
-          <mxGeometry x="272" y="151" width="225" height="43" as="geometry" />
+          <mxGeometry x="249" y="151" width="225" height="43" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-52" value="向量数据库和知识图谱" style="whiteSpace=wrap;strokeWidth=1;strokeColor=#829fc8;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
-          <mxGeometry x="404" y="106" width="181" height="28" as="geometry" />
+          <mxGeometry x="390" y="90" width="181" height="28" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-62" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="384.5" y="317" width="32" height="60" as="geometry" />
