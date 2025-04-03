@@ -147,7 +147,7 @@
           <mxGeometry x="-424" y="2318" width="1082" height="512" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-33" value="压力容器工业LLM和信息检索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
-          <mxGeometry x="384" y="256" width="200" height="49" as="geometry" />
+          <mxGeometry x="376" y="259" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-35" value="②压力容器故障知识图谱化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="310" y="114.5" width="181" height="44" as="geometry" />
@@ -185,8 +185,14 @@
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-62" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="384" y="317" width="32" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUOGsrrlKZTYXRW6oetZ-63" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-30" y="2645" width="32" height="60" as="geometry" />
+        <mxCell id="CUOGsrrlKZTYXRW6oetZ-63" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
+          <mxGeometry x="529" y="311" width="32" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CUOGsrrlKZTYXRW6oetZ-64" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="82" y="2756" as="sourcePoint" />
+            <mxPoint x="132" y="2706" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
