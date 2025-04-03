@@ -158,7 +158,7 @@
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-38" value="电子病例" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="931" y="434" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="CUOGsrrlKZTYXRW6oetZ-44" value="网络数据" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
+        <mxCell id="CUOGsrrlKZTYXRW6oetZ-44" value="网络数据" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="190" y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-45" value="相关故障诊断及维修数据" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
@@ -200,7 +200,7 @@
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-95" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;direction=east;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="310" y="278.5" width="53" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="CUOGsrrlKZTYXRW6oetZ-114" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
+        <mxCell id="CUOGsrrlKZTYXRW6oetZ-114" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="531" y="317" width="32" height="60" as="geometry" />
         </mxCell>
       </root>
