@@ -144,7 +144,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-29" value="基于检索式生成增强的压力容器智能故障诊断与运维决策知识库构建" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-439" y="2394" width="1082" height="512" as="geometry" />
+          <mxGeometry x="-442" y="2411" width="1082" height="512" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-33" value="压力容器工业LLM和信息检索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="384" y="256" width="200" height="49" as="geometry" />
@@ -160,14 +160,6 @@
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-38" value="电子病例" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="931" y="434" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="CUOGsrrlKZTYXRW6oetZ-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.28;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="CUOGsrrlKZTYXRW6oetZ-29" source="CUOGsrrlKZTYXRW6oetZ-33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="407" y="397" />
-            </Array>
-            <mxPoint x="407" y="434" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="CUOGsrrlKZTYXRW6oetZ-29" source="CUOGsrrlKZTYXRW6oetZ-33" target="CUOGsrrlKZTYXRW6oetZ-36">
           <mxGeometry relative="1" as="geometry">
