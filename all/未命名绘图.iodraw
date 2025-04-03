@@ -200,11 +200,11 @@
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-117" value="基于检索式生成增强的压力容器智能故障诊断与运维决策知识库构建" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;strokeColor=none;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="264.5" y="46" width="460" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="CUOGsrrlKZTYXRW6oetZ-121" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.loading_arm;pointerEvents=1;sketch=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
-          <mxGeometry x="487" y="414" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-118" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-247" y="2969" width="603" height="451" as="geometry" />
+        </mxCell>
+        <mxCell id="CUOGsrrlKZTYXRW6oetZ-122" value="" style="points=[[0.5,0.37,0],[1,0.09,0],[1,0.9,0],[0,0.08,0],[0,0.91,0],[0.5,0.61,0],[0.045,0.5,0],[0.96,0.5,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.cisco_dna;fillColor=#005073;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="148" y="2600" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
