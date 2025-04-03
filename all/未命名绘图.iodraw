@@ -144,7 +144,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-29" value="基于检索式生成增强的压力容器智能故障诊断与运维决策知识库构建" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-5" y="2173" width="1082" height="512" as="geometry" />
+          <mxGeometry y="2232" width="1082" height="512" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-30" value="向量数据库和知识图谱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="43" y="434" width="220" height="49" as="geometry" />
@@ -203,9 +203,6 @@
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-48" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;维修手册&lt;/span&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="842" y="288.5" width="100" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="CUOGsrrlKZTYXRW6oetZ-50" value="" style="shape=mxgraph.pid.vessels.furnace2;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
-          <mxGeometry x="752" y="337" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
