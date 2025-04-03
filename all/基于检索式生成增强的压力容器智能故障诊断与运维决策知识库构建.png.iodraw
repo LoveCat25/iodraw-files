@@ -165,7 +165,7 @@
           <mxGeometry x="643" y="237.5" width="76" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-51" value="①多元运行数据采集与专业知识集成" style="whiteSpace=wrap;strokeWidth=1;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
-          <mxGeometry x="276" y="151" width="215" height="44" as="geometry" />
+          <mxGeometry x="270" y="151" width="215" height="44" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-52" value="向量数据库和知识图谱" style="whiteSpace=wrap;strokeWidth=1;strokeColor=#829fc8;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="404" y="106" width="181" height="28" as="geometry" />
