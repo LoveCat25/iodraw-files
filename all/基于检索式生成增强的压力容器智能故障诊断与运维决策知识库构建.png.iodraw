@@ -146,11 +146,14 @@
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-29" value="" style="whiteSpace=wrap;strokeWidth=1;verticalAlign=top;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-380" y="2356" width="1286.5" height="570.13" as="geometry" />
         </mxCell>
+        <mxCell id="CUOGsrrlKZTYXRW6oetZ-115" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;dashed=1;dashPattern=1 2;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
+          <mxGeometry x="260" y="88" width="501" height="134" as="geometry" />
+        </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-33" value="压力容器工业LLM和信息检索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="376" y="259" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-35" value="②压力容器故障及维修知识图谱化" style="whiteSpace=wrap;strokeWidth=1;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
-          <mxGeometry x="536" y="154" width="186" height="44" as="geometry" />
+          <mxGeometry x="543" y="151" width="186" height="44" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-44" value="网络数据" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="190" y="240" width="120" height="80" as="geometry" />
@@ -190,9 +193,6 @@
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-114" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="531" y="317" width="32" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CUOGsrrlKZTYXRW6oetZ-115" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;dashed=1;dashPattern=1 2;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
-          <mxGeometry x="260" y="88" width="501" height="134" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-117" value="基于检索式生成增强的压力容器智能故障诊断与运维决策知识库构建" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;strokeColor=none;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="264.5" y="46" width="460" height="33" as="geometry" />
