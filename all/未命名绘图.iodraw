@@ -162,7 +162,7 @@
           <mxGeometry x="643" y="237.5" width="76" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-51" value="①多元运行数据采集与专业知识集成" style="whiteSpace=wrap;strokeWidth=1;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
-          <mxGeometry x="281" y="145" width="215" height="44" as="geometry" />
+          <mxGeometry x="283" y="140" width="215" height="44" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-52" value="向量数据库和知识图谱" style="whiteSpace=wrap;strokeWidth=1;strokeColor=#829fc8;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="405" y="55" width="181" height="44" as="geometry" />
@@ -198,7 +198,7 @@
           <mxGeometry x="531" y="317" width="32" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-115" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;dashed=1;dashPattern=1 2;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
-          <mxGeometry x="4" y="320" width="501" height="168" as="geometry" />
+          <mxGeometry x="241" y="40" width="501" height="168" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
