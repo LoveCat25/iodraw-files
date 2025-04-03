@@ -144,7 +144,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-29" value="基于检索式生成增强的压力容器智能故障诊断与运维决策知识库构建" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-442" y="2411" width="1082" height="512" as="geometry" />
+          <mxGeometry x="-434" y="2408" width="1082" height="512" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-33" value="压力容器工业LLM和信息检索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="376" y="259" width="200" height="49" as="geometry" />
@@ -159,7 +159,7 @@
           <mxGeometry x="931" y="434" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-44" value="网络数据" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
-          <mxGeometry x="173" y="243.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="183" y="243" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-45" value="相关故障诊断及维修数据" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="325" y="397" width="120" height="80" as="geometry" />
@@ -201,7 +201,7 @@
           <mxGeometry x="675" y="276" width="12" height="14" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-95" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;direction=east;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
-          <mxGeometry x="303" y="280" width="53" height="10" as="geometry" />
+          <mxGeometry x="310" y="278.5" width="53" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
