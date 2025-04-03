@@ -147,7 +147,7 @@
           <mxGeometry x="-310" y="2345" width="1082" height="512" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-30" value="向量数据库和知识图谱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
-          <mxGeometry x="157" y="41" width="220" height="49" as="geometry" />
+          <mxGeometry x="157" y="41" width="220" height="34" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-31" value="网络数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="157" y="420" width="124" height="49" as="geometry" />
