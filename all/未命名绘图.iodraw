@@ -182,6 +182,9 @@
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-55" value="" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.vts;fillColor=#005073;strokeColor=none;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="653" y="179" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="CUOGsrrlKZTYXRW6oetZ-57" value="" style="shape=stencil(lVfZbttADPwavRLL5Z7PafofAeLURl07cJwef1+qxqombU2QN1nmaEnO8NhJHt62T6+bKYa38+n4ffNr93zeTvJlinF32G5Ou7M+TfI4ycPL8bT5djq+H54vv1+fZsv56cfx5/yF3xdcpsYzKIY/lxeBQvj34uvFfL87XJlzoijGnol53V4/V5KxF4pp3V4CcTf2nRrwRyqJtedCqawDUiYJBhDjSMFdQFaHiwVUSn0dUJiSCzkRA5dKpVYtoFPJ64CaqdigU6cMXGpKqgXkRhwBQKhbmkumDAA9kEQDmJ0ERHcN2rrUNEsCAN0roynTIEsK6Jbp1qH2ZoAlrkeKQHwKEFs8PVNAWWoULNOahgTE1wuJFd+cBnRCIske0IH45hBvTmgIEHwBaVQNaalRcUEX6oC4Vik7l9IoqTWATyuPT6wBXNCzkzgGdlrK1AFxKrVspaElVRFxTGLF15SZBgBCybnEVFE9ZErNn8AVlqjTksaQkVoXIVxlqSBApyqeBxQ0h2U8XVEd8RHZDZQEJ5YGkV0XKFQQEapmp76GW582CXeC5gGdEEe9LEMu4DGtRdqjPyKiiuhDCledCc2gTwOq9r6bikCTusqQ8zJSlm54f47q1LRVXdpIw31A9DMoV1hC+nezLuVIAQHYr1epQIGnNNr7AlB9gyLV3cLVnL5BJ+j2wtalWEaDvg/gMQQXgI4AAGAhcTuiNkuwniQvVrVHQ06G0Bb7BGmLY19b7AXORPaNkiNcQgNVm1FemvmKvUsoXvduWt6iwhVzx2+BO0kYe90iOIqAKxWDNY8fpJ4dVSO3K8xGm3n1Digted/DWATuV+Pn7jofmuvD/2vVy26/v9zKrv/31zB9dbnCyeNf);lineShape=1;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360.7209903950197" y="2199.559237815258" width="34.17665193398345" height="24.202059598781794" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
