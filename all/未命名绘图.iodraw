@@ -150,7 +150,7 @@
           <mxGeometry x="376" y="259" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-35" value="②压力容器故障知识图谱化" style="whiteSpace=wrap;strokeWidth=1;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
-          <mxGeometry x="567" y="138" width="181" height="44" as="geometry" />
+          <mxGeometry x="531" y="140" width="181" height="44" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-44" value="网络数据" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="190" y="240" width="120" height="80" as="geometry" />
@@ -162,7 +162,7 @@
           <mxGeometry x="643" y="237.5" width="76" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-51" value="①多元运行数据采集与专业知识集成" style="whiteSpace=wrap;strokeWidth=1;strokeColor=#6c8ebf;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
-          <mxGeometry x="55" y="163" width="215" height="44" as="geometry" />
+          <mxGeometry x="281" y="145" width="215" height="44" as="geometry" />
         </mxCell>
         <mxCell id="CUOGsrrlKZTYXRW6oetZ-52" value="向量数据库和知识图谱" style="whiteSpace=wrap;strokeWidth=1;strokeColor=#829fc8;" vertex="1" parent="CUOGsrrlKZTYXRW6oetZ-29">
           <mxGeometry x="405" y="55" width="181" height="44" as="geometry" />
